@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'LUXX BOT'; 
-const instagram = 'https://instagram.com/luxurious.vamp'; 
+const instagram = 'https://instagram.com/valianvino'; 
 const telegram = 'https://t.me/rareflipz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://youtube.com/channel/UC5K1AHFRwRX-6WEyA5U4UYQ';
