@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'LUXX BOT'; 
+const BotName = 'RARE FLIPZ BOT'; 
 const instagram = 'https://instagram.com/valianvino'; 
 const telegram = 'https://t.me/rareflipz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
