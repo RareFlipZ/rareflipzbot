@@ -7,19 +7,6 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
-## CARA INSTALL
-# TERMUX
-```bash
-> download termux
-> buka
-> pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/RareFlipZ/luxxbot
-> cd luxxbot
-> bash install.sh
-> node index.js
 ```
 
 
